@@ -1,0 +1,7 @@
+My Account
+
+Your username is: ec2-user
+
+password: trustno1
+
+Your email is: ec2-user@ec2-user.net
