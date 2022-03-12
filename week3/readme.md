@@ -7,3 +7,7 @@ After cloning github repo
 Once the installation was completed, I tested to see if the environment was ready to be used
 
 ![](s2.gif)
+
+Finally, we terminate kali linux instance until next use
+
+![](3.png)
